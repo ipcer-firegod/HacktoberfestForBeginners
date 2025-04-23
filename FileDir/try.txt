@@ -3,3 +3,6 @@
 然后，这是在github里面修改，之后看看在Vscode里面能否拉取成功。
 
 如果在github上使用其他开源的项目仓库，则需要先fork到自己的仓库集合中，才可以进行拉取，推送的修改。wsm
+OK了，我靠。之前出现问题：connect to host github.com port 22: Connection refused
+然后经过：https://blog.csdn.net/hjy_mysql/article/details/131596257?ops_request_misc=%257B%2522request%255Fid%2522%253A%252296668329230352c6f58f60aba4671dae%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=96668329230352c6f58f60aba4671dae&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-131596257-null-null.142^v102^pc_search_result_base3&utm_term=connect%20to%20host%20github.com%20port%2022%3A%20Connection%20refused&spm=1018.2226.3001.4187
+解决！
